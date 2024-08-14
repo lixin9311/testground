@@ -1,0 +1,2 @@
+ARG GO_VERSION=1.21.1
+ARG GO_FIPS_TAG=go1.22.5-1-openssl-fips
